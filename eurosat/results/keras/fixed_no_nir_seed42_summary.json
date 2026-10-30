@@ -1,0 +1,12 @@
+{
+  "name": "fixed_no_nir_seed42",
+  "framework": "keras",
+  "protocol": "B",
+  "bands": "no_nir",
+  "seed": 42,
+  "epochs_run": 40,
+  "val_loss": 0.04778890311717987,
+  "val_acc": 0.9864197373390198,
+  "val_macro_f1": 0.985635980244284,
+  "minutes": 27.6
+}

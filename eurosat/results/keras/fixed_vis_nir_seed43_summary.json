@@ -1,0 +1,12 @@
+{
+  "name": "fixed_vis_nir_seed43",
+  "framework": "keras",
+  "protocol": "B",
+  "bands": "vis_nir",
+  "seed": 43,
+  "epochs_run": 40,
+  "val_loss": 0.044389668852090836,
+  "val_acc": 0.9849382638931274,
+  "val_macro_f1": 0.9842890202143204,
+  "minutes": 27.2
+}

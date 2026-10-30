@@ -1,0 +1,11 @@
+{
+  "name": "band_vis_swir_seed44",
+  "framework": "keras",
+  "bands": "vis_swir",
+  "seed": 44,
+  "epochs_run": 30,
+  "val_loss": 0.07699036598205566,
+  "val_acc": 0.9745678901672363,
+  "val_macro_f1": 0.9735347238382603,
+  "minutes": 20.1
+}

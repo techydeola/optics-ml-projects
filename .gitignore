@@ -1,0 +1,9 @@
+.venv/
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+.venv-tf/
+.venv-tf218/
+*.log
+.DS_Store

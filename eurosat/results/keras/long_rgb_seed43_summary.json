@@ -1,0 +1,11 @@
+{
+  "name": "long_rgb_seed43",
+  "framework": "keras",
+  "bands": "rgb",
+  "seed": 43,
+  "epochs_run": 47,
+  "val_loss": 0.08313921838998795,
+  "val_acc": 0.970370352268219,
+  "val_macro_f1": 0.9695788293747383,
+  "minutes": 31.2
+}

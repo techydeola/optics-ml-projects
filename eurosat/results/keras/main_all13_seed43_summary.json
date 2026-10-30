@@ -1,0 +1,11 @@
+{
+  "name": "main_all13_seed43",
+  "framework": "keras",
+  "bands": "all13",
+  "seed": 43,
+  "epochs_run": 36,
+  "val_loss": 0.053092554211616516,
+  "val_acc": 0.9814814925193787,
+  "val_macro_f1": 0.9805394230024158,
+  "minutes": 24.7
+}

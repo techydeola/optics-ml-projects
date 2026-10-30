@@ -1,0 +1,12 @@
+{
+  "name": "fixed_all13_seed43",
+  "framework": "keras",
+  "protocol": "B",
+  "bands": "all13",
+  "seed": 43,
+  "epochs_run": 40,
+  "val_loss": 0.04670170694589615,
+  "val_acc": 0.9854320883750916,
+  "val_macro_f1": 0.9844245941433915,
+  "minutes": 28.0
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fixed_no_swir_seed44",
+  "framework": "keras",
+  "protocol": "B",
+  "bands": "no_swir",
+  "seed": 44,
+  "epochs_run": 40,
+  "val_loss": 0.042585596442222595,
+  "val_acc": 0.9854320883750916,
+  "val_macro_f1": 0.9846404865818444,
+  "minutes": 27.7
+}

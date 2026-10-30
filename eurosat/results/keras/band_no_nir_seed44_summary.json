@@ -1,0 +1,11 @@
+{
+  "name": "band_no_nir_seed44",
+  "framework": "keras",
+  "bands": "no_nir",
+  "seed": 44,
+  "epochs_run": 24,
+  "val_loss": 0.07272137701511383,
+  "val_acc": 0.9767901301383972,
+  "val_macro_f1": 0.9757176569986606,
+  "minutes": 16.6
+}

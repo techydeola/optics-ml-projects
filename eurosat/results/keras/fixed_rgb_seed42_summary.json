@@ -1,0 +1,12 @@
+{
+  "name": "fixed_rgb_seed42",
+  "framework": "keras",
+  "protocol": "B",
+  "bands": "rgb",
+  "seed": 42,
+  "epochs_run": 40,
+  "val_loss": 0.06735631823539734,
+  "val_acc": 0.9760493636131287,
+  "val_macro_f1": 0.9753115553371009,
+  "minutes": 27.0
+}

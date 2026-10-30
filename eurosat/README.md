@@ -107,10 +107,21 @@ Only compare numbers within one column. The protocols differ.
 
 ### Figures
 
-- `figures/band_configs_accuracy.png`: accuracy per configuration, one dot per seed (y-axis truncated).
-- `figures/per_class_f1_test.png`: per-class F1 on the test set (y-axis starts at 0.6).
-- `figures/test_confusion_rgb_vs_all13.png`: misclassified test images summed over 3 seeds.
-- `figures/errors_rgb_vs_all13_val_seed42.png`: random examples of RGB errors, with the 13-band prediction.
+![Accuracy per band configuration, one dot per seed](figures/band_configs_accuracy.png)
+
+Accuracy per configuration, one dot per seed (validation and test). The y-axis is truncated.
+
+![Per-class F1 on the test set](figures/per_class_f1_test.png)
+
+Per-class F1 on the test set, mean of 3 seeds. The y-axis starts at 0.6.
+
+![Misclassified test images, RGB against all 13 bands](figures/test_confusion_rgb_vs_all13.png)
+
+Misclassified test images summed over 3 seeds (correct predictions not shown).
+
+![Examples of RGB errors with the 13-band prediction](figures/errors_rgb_vs_all13_val_seed42.png)
+
+Random examples of RGB errors on the validation set (seed 42), with the 13-band prediction.
 
 ## What the results show
 
